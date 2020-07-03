@@ -1,0 +1,27 @@
+{
+  "name": "sigma-discord-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "bindings": "^1.5.0",
+    "bufferutil": "^4.0.1",
+    "discord.js": "^12.1.1",
+    "ffmpeg-static": "^4.1.0",
+    "fs": "0.0.1-security",
+    "libsodium-wrappers": "^0.7.6",
+    "nan": "^2.14.0",
+    "node-gyp": "^6.1.0",
+    "node-pre-gyp": "^0.14.0",
+    "rebuild": "^0.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "utf-8-validate": "^5.0.2",
+    "ytdl-core": "^2.0.1"
+  }
+}

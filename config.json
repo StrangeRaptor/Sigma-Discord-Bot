@@ -1,0 +1,7 @@
+{
+    "token" : "<discord-token>",
+    "gkey" : "<google-token>",
+    "prefix" : ">.",
+    "bootmessage" : "Sigma is now online and active",
+    "defaultRole" : "656058529278459924"
+}

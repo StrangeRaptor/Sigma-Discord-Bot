@@ -1,0 +1,40 @@
+{
+    "desc" : {
+        "sfw" : ["Angry","Sad","Neutral","Happy","Confused","Excited","Nervous","Shy","Psychotic","Lifeless",
+            "Insane","Sick","Lost","Hot","Ugly","Short","Badass","Fit","Depressed",
+            "Abusive","Drunk","Tiny","Muscular","Giant","Innocent","Crying","Embarrased","Sleepy","Nerdy","Souless",
+            "Distressed","Tired","Drenched","Disgusted","Deformed","Paraplegic","Tall","Cold","Dying","Overweight","Thin","Large",
+            "Wide","Fiesty","Caring","Eccentric","Fancy","Old Fashioned","Modern","Colourful","Religious","Androgynous",
+            "Dumb","Clumsy","Bizarre","Cute","Adorable","Young","Old", "Chubby"],
+        "nsfw": ["Erotic","Busty","Thicc","Sexy","Seductive","Wet","Sticc"]
+    },
+
+    "type" : {
+        "sfw" : ["Human","Elf","Dragon","Panda","Orc","Fairy","Angel","Harpy","Demon","Naga","Ghost",
+            "Zombie","Pokemon","Dog","Elk","Ant","Butterfly","Bee","Shark","Kitten","Teenager",
+            "Old","Bird","Manticore","Gremlin","Slime","Turtle","Cat","Mouse","Robot","Neko","Puppet","Mimic","Skeleton",
+            "Spider","Alien","Bat","Genie","Bear","Dwarf","Yeti","Wyvern","Goblin","Android","Monster","Sphinx","Lizard","Object-Head",
+            "Weeping Angel","Rock","Golem","Elemental","Wolf","Spirit","Wisp","Tiger","Rabbit","Insect","Chimera","Beast","Jackal",
+            "Mutant","Cyclops", "Rabbit", "Cryptid", "Duck", "TV-Head"],
+        "nsfw": ["Succubus"],
+	"object": ["Block","Axe","Tomato","Fruit","Cube","Cylinder","Pyramid","Ball","Potato","Vegetable","Rose","Plant","Vine","Tool",
+		"Garden","Vinyl","Orange","Apple","Tea","Coffee","Controller","Tablet","Keyboard","Screen","Pen","Eraser","Pencil","Fountain Pen",
+		"Casette","Donut","Radio","Microwave","Console","Chair","Bed","Table","Charger","Paint","Brush","Fidget Toy","Outlet","Moon",
+		"Planet","Star","Space","Nebula","Dwarf Star","Asteroid","Comet","Wormhole","Black Hole","Quasar","Star Cluster","Weapon",
+		"Watermelon","Yarn","Wool","Cotton","Felt","Computer","Tray","Lightbulb","Flashlight","Torch","Spoon","Fork","Knife","Leaf",
+		"Container","Sticker","Hard-Drive","Fan","Heater","AC Unit","Sword","Sheild","Crown","Coin","Money","Bag","Ship","Hand","Perfume",
+		"Toy","Fire","Flame","Ice","Gumball","Book","Paper","Cardboard","Water","Cloud","Lightning","Solar System","Pokeball","Sunflower",
+		"Orchid","Blueberry","Raspberry","Strawberry","Mango","Lemon","Lime","Kool-Aid","Pool Noodle","Beach Ball","Umbrella","Glasses",
+		"Hat","Ribbon","Tank","Car","Boat","Vehicle"]
+    },
+
+    "job" : {
+        "sfw" : ["Cleaner","Knight","Warrior","Waiter","Dancer","Boxer","Artist","Manager","Programmer","Rapper","Ninja",
+            "Bar Tender","Maid","Nurse","Doctor","Engineer","Sherif","Thief","Drifter","Murderer","Singer","Memer","Alcoholic",
+            "Wizard","Archer","Monk","DJ","Assassin","Baker","Miner","Teacher","Sailor","Soldier","Mechanic","Scientist",
+            "Philosopher","Time Traveler","Librarian","Student","Tourist","Superhero","Supervillan","Mayor","Model","Salesperson",
+            "Janitor","Mathematician","Football Player", "Coach", "Nutritionist","Criminal","Producer","Priest","Secretary","Animator",
+            "Builder","Lawyer","Gardener","Director","Actor","Musician","Dentist", "Baseball Player", "Architect"],
+        "nsfw": ["Prostitute", "Adult Actor", "Nude Model"]
+    }
+}
